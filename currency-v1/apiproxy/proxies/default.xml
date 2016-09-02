@@ -5,7 +5,7 @@
 		<AlwaysEnforce>true</AlwaysEnforce>
 
 		<Step>
-			<Condition>flow.apigee.error.code = null</Condition>
+			<Condition>flow.apigee.error.code = null </Condition>
 			<Name>AssignMessage.SetInternalServerErrorVariables</Name>
 		</Step>
 		<Step>

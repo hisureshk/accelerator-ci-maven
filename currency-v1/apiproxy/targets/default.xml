@@ -2,7 +2,7 @@
 <TargetEndpoint name="default">
 
 	<FaultRules>
-		<FaultRule name="Target 4XX">
+		<FaultRule name="Target 4XX" >
 			<Condition>
 				(response.status.code = 422) or (response.status.code = 424)
 			</Condition>

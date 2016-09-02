@@ -12,7 +12,7 @@
 			<Name>JavaScript.LogToLoggly</Name>
 		</Step>
 		<Step>
-			<Name>RaiseFault.Json</Name>
+			<Name>RaiseFault.Json </Name>
 		</Step>
 	</DefaultFaultRule>
 
